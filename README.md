@@ -1,6 +1,5 @@
 # reprueba
 Prueba segunda del programa
-# Título del WEB con un H1
 
 # Título del WEB con un H1
 ## Título  H2
